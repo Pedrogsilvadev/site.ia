@@ -1,0 +1,45 @@
+Parte 1 (1 Ponto):
+- Acesse o site oficial do Bootstrap e baixe a versão mais recente;
+- Descompacte o conteúdo em uma pasta e nomeie-a como "Atividade Avaliativa - Programação para Internet";
+- Crie nesta pasta uma subpasta e coloque nela todas as imagens que estão nesta atividade;
+- Abra o Visual Studio Code (ou o editor de HTML da sua preferência) e crie um arquivo .html com a estrutura base em HTML conforme vimos nas aulas. Esta estrutura deve ter:
+	- Codificação de caracteres UTF-8;
+	- Cabeçalho com o título "Atividade Avaliativa";
+	- Formatação definida pelo arquivo bootstrap.css;
+	- Scripts definidos pelo arquivo bootstrap.min.js;
+	- Outras que você considerar importantes para o site.	
+
+Parte 2 (2 Pontos):
+Altere o arquivo bootstrap.css de forma que:
+
+- O Título da página fique com alinhamento centralizado e com a cor de texto azul;
+- Os parágrafos fiquem com alinhamento justificado.
+- As margens esquerda e direita dos parágrafos fiquem com tamanho 10%;
+- As margens esquerda e direita do Carousel fiquem com tamanho 10%;
+
+Parte 3 (2 Pontos):
+Usando o site do Bootstrap como referência, crie no seu arquivo .html uma Navbar (primeiro exemplo) e faça as alterações a seguir:
+- Na classe navbar-brand mude o texto para a imagem logo.png;
+- Mude o texto "Home" para "Senac" e crie um hiperlink que abra o site do Senac (https://www.sp.senac.br) em uma nova guia;
+- Mude o texto "Link" para "YouTube" e crie um hiperlink que abra a página do Senac no YouTube (https://www.youtube.com/@senacsaopaulo) em uma nova guia;
+- Remova todos os demais elementos da Navbar.
+
+Parte 4 (2 Pontos):
+Usando o site do Bootstrap como referência, copie o código do exemplo Autoplaying Carousels, cole abaixo do seu código da Navbar e faça as alterações a seguir:
+- Ajuste o Carousel de forma que sejam exibidas as outras 5 imagens desta atividade.
+
+Parte 5 (3 Pontos):
+- Abaixo do Carousel, crie o título "As IAs e o Mercado de Trabalho";
+- Usando o site do Bootstrap como referência, copie o código do exemplo Accordion Flush, cole abaixo do seu código do Carousel e faça as alterações a seguir:
+- Usando como referência o texto "As IAs e o Mercado de Trabalho" (que está nesta atividade), mude o título "Accordion Item #1" para "História das IAs";
+- Cole na classe "accordion body" os parágrafos do texto referentes a este título;
+- Mude o título "Accordion Item #2" para "Uso das IAs Atualmente";
+- Cole na classe "accordion body" os parágrafos do texto referentes a este título;
+- Mude o título "Accordion Item #3" para "Futuro das IAs no Mercado de Trabalho";
+- Cole na classe "accordion body" os parágrafos do texto referentes a este título.
+
+Finalização:
+- Compacte a pasta da atividade com todos os arquivos e envie nesta atividade.
+
+
+
